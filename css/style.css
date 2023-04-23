@@ -1,4 +1,5 @@
 @import url('nunito.css');
+
 /* diagnostic styling */
 * {
     outline: 1px dotted gray;
@@ -10,13 +11,23 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
+    background-image: linear-gradient(to bottom right, #99E2B4, #469D89, #14746F);
 }
 
 h2 {
-    font-family: 'Nunito-ExtraLight';
+    font-family: 'Nunito-Semibold';
     font-size: 2rem;
+    color: #ffffff;
     text-align: center;
-    margin-bottom: 1rem;
+    margin: 0;
+}
+
+p {
+    font-family: 'Nunito-Light';
+    font-size: 21px;
+    color: #ffffff;
+    text-align: center;
+    margin: 0;
 }
 
 /* scene */
@@ -54,11 +65,11 @@ h2 {
 }
 
 .front {
-    background: coral;
+    background: #31726C;
 }
 
 .back {
-    background: cornflowerblue;
+    background: #104F55;
     /* flip it default   */
     transform: rotateY(180deg);
 }
