@@ -21,3 +21,4 @@ Promotional site to showcase Dept of Design Certificates.
 - [3D Card Flip](https://codepen.io/desandro/pen/LmWoWe)
 - [3D Product Cards by Zac](https://codepen.io/zremboldt/pen/ZvQjOG)
 - [Fontshare](https://www.fontshare.com/fonts/nunito)
+- [Vector Icons](https://www.flaticon.com)
